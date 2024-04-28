@@ -10,7 +10,7 @@ load_dotenv = load_dotenv()
 
 os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 os.environ["OPENAI_API_KEY"]=os.getenv("OPENAI_API_KEY")
-## Langmith tracking
+## Langsmith tracking
 os.environ["LANGCHAIN_TRACING_V2"]="true"
 
 

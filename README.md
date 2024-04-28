@@ -10,3 +10,5 @@ For running with Ollama download ollama on the local machine and then download t
 - ollama run llama2 
 
 For code related chat Code Llama can be downloaded.
+
+In place of OpenAIEmbeddings we can also use Ollama embedings or other embeddings as well.  

@@ -7,3 +7,7 @@ langserve
 fastapi
 uvicorn
 sse_starlette  # used to implement server-sent events (SSE) with Python FastAPI
+bs4
+pypdf
+chromadb
+faiss-cpu
