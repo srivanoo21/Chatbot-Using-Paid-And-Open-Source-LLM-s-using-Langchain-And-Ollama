@@ -6,6 +6,7 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 
+load_dotenv = load_dotenv()
 
 os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 ## Langmith tracking
