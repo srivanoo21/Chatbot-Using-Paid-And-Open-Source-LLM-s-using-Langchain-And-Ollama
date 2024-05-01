@@ -3,6 +3,7 @@ langchain_core
 python-dotenv
 streamlit
 langchain_community
+langchain
 langserve
 fastapi
 uvicorn
@@ -11,3 +12,4 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+langchain-text-splitters
